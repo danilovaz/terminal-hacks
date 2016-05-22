@@ -5,3 +5,8 @@ Emite um alerta sonoro quando um comando terminar de ser processado
 any-command; spd-say any-message
 e.g: sudo apt-get update; spd-say complete
 ```
+
+Exibe o espaço em disco
+```bash
+df -h
+```
