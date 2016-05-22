@@ -10,3 +10,8 @@ Exibe o espaço em disco
 ```bash
 df -h
 ```
+
+Lista os arquivos de uma pasta exibindo o tamanho deles
+```bash
+ls -sh
+```
